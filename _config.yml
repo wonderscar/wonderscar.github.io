@@ -1,10 +1,10 @@
-url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+url: https://wonderscar.com/
+baseurl: 
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Wonders Car Rental Services
+email: wonderscar@outlook.com
+description: "Need a good ride for any occasions? Wonders car Rental Services has the answer to all your lannd transportation needs"
 
 
 # Team names, titles and social links
@@ -16,7 +16,7 @@ people:
     - title: twitter
       url: #
     - title: facebook
-      url: #
+      url: https://facebook.com/wonderscar
     - title: stack-overflow
       url: #
 
@@ -57,8 +57,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Villa Lucillla Subdivision
+  - line: Liloan Cebu Philippines 6002
 
 # Build settings
 markdown: kramdown
